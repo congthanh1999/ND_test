@@ -1,5 +1,11 @@
 {
       "Thanh": {
             "similary": 0.51
+      },
+      "Thoai": {
+            "similary": 0.71
+      },
+      "Tin": {
+            "similary": 0.85
       }
 }
