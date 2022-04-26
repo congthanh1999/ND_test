@@ -1,11 +1,11 @@
-from tensorflow.keras.applications import xception
-from tensorflow.keras.applications import vgg16
-from tensorflow.keras.applications import inception_v3
-from tensorflow.keras.applications import mobilenet_v2
-from tensorflow.keras.applications import inception_resnet_v2
+from keras.applications import xception
+from keras.applications import vgg16
+from keras.applications import inception_v3
+from keras.applications import mobilenet_v2
+from keras.applications import inception_resnet_v2
 
-from tensorflow.keras.preprocessing import image
-from tensorflow.keras.models import Model
+from keras.preprocessing import image
+from keras.models import Model
 
 import numpy as np
 
